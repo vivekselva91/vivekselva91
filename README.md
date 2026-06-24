@@ -1,16 +1,39 @@
-## Hi there 👋
+# Vivek Selvakumar
 
-<!--
-**vivekselva91/vivekselva91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TPM by day, agent architect by night.
+Building AI-powered workflows, automating execution, and turning complex programs into scalable systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+
+### ProgramPulse
+Portfolio health dashboard for program managers.
+
+### ChurnLens
+Machine learning solution for churn prediction and customer insights.
+
+---
+
+## What I'm Currently Building
+
+- Agentic AI workflows
+- Engineering Automation
+- Multi-Agent Systems
+
+---
+
+## Technical Toolkit
+
+| Area | Tools |
+|--------|--------|
+| AI Agents | OpenAI, Claude, Gemini |
+| Development | Python, VS Code |
+| Automation | n8n, GitHub Actions |
+| Program Management | APQP, DFMEA, DVP&R |
+| Analytics | Power BI, SQL |
+
+---
+
+## Lets Connect
+- LinkedIn: https://www.linkedin.com/in/vivekselva/
