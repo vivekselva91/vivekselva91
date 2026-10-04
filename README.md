@@ -1,6 +1,6 @@
 # Vivek Selvakumar
 
-TPM by day, agent architect by night. TPM with 10+ years leading NPI sensor, imaging and ECU programs from design through volume ramp.
+TPM by day, agent architect by night. TPM with 10+ years leading NPI sensing, power and ECU programs from design through volume ramp.
 Building AI-powered workflows, automating execution, and turning complex programs into scalable systems.
 I take sensor and imaging hardware from first build to volume ramp.
 
