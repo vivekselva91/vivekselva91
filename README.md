@@ -8,7 +8,7 @@ Managed $20M+ portfolios and $10M+ equipment investments across 6 global program
 
 
 ## Featured Projects
-- End-of-line test bench for an inductive position sensor
+- End-of-line test bench for an interior lighting 
 - Camera and radar sensor-fusion module for L2 ADAS
 - Validation campaign to ISO 16750 and IEC 60068
 
