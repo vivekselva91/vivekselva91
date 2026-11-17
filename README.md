@@ -27,7 +27,7 @@ Managed $20M+ portfolios and $10M+ equipment investments across 6 global program
 
 | Area | Tools |
 |--------|--------|
-| AI Agents | OpenAI, Claude, Gemini |
+| AI Agents | OpenAI, Claude |
 | Development | Python, VS Code |
 | Automation | n8n, GitHub Actions |
 | Program Management | APQP, DFMEA, DVP&R |
